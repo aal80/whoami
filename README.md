@@ -48,6 +48,12 @@
 - Serving Cached Content Using Cloud Internet Services, Cloud Object Storage and Certificate Manager ([blog](https://www.ibm.com/blog/serving-cached-content-using-cloud-internet-services-cloud-object-storage-and-certificate-manager/))
 
 ## Code
+- Efficiently processing batched data using parallelization in AWS Lambda ([repo](https://github.com/aws-samples/lambda-with-multithreading))
+- Introducing faster polling scale-up for AWS Lambda functions configured with Amazon SQS ([repo](https://github.com/aws-samples/lambda-sqs-event-source-mapping-scaling-improvements))
+- Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([repo](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-lambda-runtime-api-proxy-extension))
+- AWS Lambda Telemetry API extension, Golang ([repo](https://github.com/aws-samples/aws-lambda-extensions/tree/main/go-example-telemetry-api-extension))
+- AWS Lambda Telemetry API extension, Node.js ([repo](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-telemetry-api-extension))
+- Propagating valid mTLS client certificate identity to downstream services using Amazon API Gateway ([repo](https://github.com/aws-samples/api-gateway-certificate-propagation))
 - Using data compression with AWS Lambda functions ([repo](https://github.com/aws-samples/lambda-with-compression))
 - Jenkins plugin for AWS Lambda ([repo](https://github.com/aal80/aws-lambda-jenkins-plugin))
 - Okta Customer Identity Cloud (Auth0) JWT Validation Extension ([repo](https://github.com/aal80/lambda-jwt-verifier-runtime-api-proxy))
