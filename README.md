@@ -33,8 +33,15 @@
 - [Lambda runtimes status (updated daily)](https://github.com/aal80/lambda-on-deprecated-runtimes-finder/blob/main/deprecated_runtimes.json)
 
 ## Patents
+- Trusted Repository Review (Patent No. 12124583)
+- User Profile Access From Engaging Applications With Privacy Assurance Associated With An API (Patent No. 11122048)
+- Updating Web Resources (Patent No. 10713034, 10694353, 10212563, 10282191, 9921821, 9733919, 9690563)
+- Intelligent Mobile Application Update (Patent No. 9952851, 9934020) 
+- Processing Hybrid Data Using A Single Web Client (Patent No. 9930130, 9648124, 9525587)
+- Integrating Remote Content with Local Content (Publication No. 20130307871)
+
+
 - Method for intelligent Mobile application update using contextual as well as P2P information (US IN820140683)
 - Integrating Remote Content with Local Content (US US20130307872)
-- Updating Web Resources (US US20130311615)
 - A method for lightweight update of mobile hybrid applications (US IL820140053)
 - A single communication and remote invocation module (US IL820140046)
