@@ -18,13 +18,14 @@
 - Building SaaS on AWS - Multi-tenant sharding strategies in SaaS applications ([video](https://www.youtube.com/live/hduzRipB9c8?si=2BUFSO0o808fdEo9))
 - Serverless Office Hours - Serverless Platform Engineering ([video](https://www.youtube.com/live/Lus02Lv-nA8?si=aHsETwaLd38K9F7j))
 - Serverless Office Hours - Building Serverless Apps with Terraform ([video](https://www.youtube.com/live/jcktUgozJj8?si=5CDQ7A834pcjSutL))
+- Serverless Office Hours - Building real-life asynchronous architectures ([video](https://www.youtube.com/live/tkLEaaUmC30?si=k0Xg-VwHm-nOvjaW))
 - Serverless Office Hours - Multi-tenant serverless SaaS applications with AWS Serverless ([video](https://www.youtube.com/live/mOe-yIUCxbE?si=DEwKl4HowLeVKrMg))
 - Automate container security with Amazon Bedrock, ECR, EKS, Inspector, and Lambda ([video](https://www.youtube.com/live/Nn8cOeAaN6A?si=cY7_OVNj_YC5qLXm))
 - LASCON 2024 - Applying generative AI to CVE remediation ([video](https://youtu.be/7oxHBwioRAw?si=EamnfFb2c7QYD_HD))
 - LASCON 2023 - Reverse-engineering the Enigma Machine and rebuilding with serverless ([video](https://youtu.be/v_K1tDLapgE?si=UG3IKW7oHUpf3FH-))
 - LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6))
 - KubeCon 2019 - Declaratively Securing Kubernetes Applications with Zero Code Updates
-- (And probably at least two more dozen in the last 10 years that I do not recall)
+- (And probably at least a couple dozen more talks in the last 10 years...)
 
 ## Publications
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([case study](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
