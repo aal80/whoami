@@ -1,4 +1,4 @@
-# Anton Aleksandrov - whoami
+# Anton Aleksandrov
 
 ![](anton-photo-small.jpeg)
 
