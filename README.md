@@ -53,6 +53,7 @@
 - Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([repo](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-lambda-runtime-api-proxy-extension))
 - AWS Lambda Telemetry API extension, Golang ([repo](https://github.com/aws-samples/aws-lambda-extensions/tree/main/go-example-telemetry-api-extension))
 - AWS Lambda Telemetry API extension, Node.js ([repo](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-telemetry-api-extension))
+- AWS Lambda movie theater with response streaming ([video](https://youtu.be/yJ1frdqAz40))
 - Propagating valid mTLS client certificate identity to downstream services using Amazon API Gateway ([repo](https://github.com/aws-samples/api-gateway-certificate-propagation))
 - Using data compression with AWS Lambda functions ([repo](https://github.com/aws-samples/lambda-with-compression))
 - Jenkins plugin for AWS Lambda ([repo](https://github.com/aal80/aws-lambda-jenkins-plugin))
@@ -67,3 +68,25 @@
 - Intelligent Mobile Application Update (Patent No. 9952851, 9934020) ([link](https://patents.google.com/patent/US9952851B2/en?oq=9952851))
 - Processing Hybrid Data Using A Single Web Client (Patent No. 9930130, 9648124, 9525587) ([link](https://patents.google.com/patent/US9930130B2/en?oq=9930130))
 - Integrating Remote Content with Local Content (Publication No. 20130307871) ([link](https://patents.google.com/patent/US20130307871A1/en?oq=20130307871))
+
+## Oldies, but still goodies
+
+### IBM Cloud App ID video guides series
+- Technologies Under the Hood ([video](https://youtu.be/ndlk-ZhKGXM))
+- Protecting Node.js Backend Application ([video](https://youtu.be/jJLSgkHpZwA))
+- Protecting Node.js Web Applications ([video](https://youtu.be/6roa1ZOvwtw))
+- Protecting Liberty Java Web Applications ([video](https://youtu.be/o_Er69YUsMQ))
+- Protecting Liberty Java Backend Applications ([video](https://youtu.be/QA6DY2qqLaw))
+- Management API ([video](https://youtu.be/b2ABxvAdGg0))
+- Protecting Android Applications ([video](https://youtu.be/uyDnFnAi1Zg))
+- Protecting iOS Applications ([video](https://youtu.be/H5U7PTePvxM))
+- Protecting Spring Boot Backend Application ([video](https://youtu.be/roQ4mKJBOqg))
+- Protecting Spring Boot Web Applications ([video](https://youtu.be/EZWl1ij3dAE))
+- Using Multiple App ID Instances ([video](https://youtu.be/eBja7PuJKzg))
+- Implementing the End-2-End Workflow ([video](https://youtu.be/tBOFG4-DQbg))
+- Introduction to Istio Service Mesh ([video](https://youtu.be/DCZkebv3VxA))
+- Integrating with Keycloak ([video](https://youtu.be/DOVlmNp4g-c))
+- Integrating with IBM Cloud Identity ([video](https://youtu.be/iXapdpVgycA))
+- Protecting IBM Kubernetes Service OpenShift Applications ([video](https://youtu.be/sqGS7naTkoU))
+- Protecting IBM Cloud Pak for Applications ([video](https://youtu.be/Z51gAlDJmRk))
+
