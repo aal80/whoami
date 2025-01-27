@@ -23,6 +23,8 @@
 - LASCON 2024 - Applying generative AI to CVE remediation ([video](https://youtu.be/7oxHBwioRAw?si=EamnfFb2c7QYD_HD))
 - LASCON 2023 - Reverse-engineering the Enigma Machine and rebuilding with serverless ([video](https://youtu.be/v_K1tDLapgE?si=UG3IKW7oHUpf3FH-))
 - LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6))
+- KubeCon 2019 - Declaratively Securing Kubernetes Applications with Zero Code Updates
+- (And probably at least two more dozen in the last 10 years that I do not recall)
 
 ## Publications
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([case study](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
@@ -47,6 +49,11 @@
 - Reusing Existing Red Hat SSO and Keycloak for Applications That Run on IBM Cloud with App ID ([blog](https://www.ibm.com/blog/reusing-existing-red-hat-sso-and-keycloak-for-applications-that-run-on-ibm-cloud-with-app-id/))
 - Protecting Your Cloud Applications with App ID and Existing IBM Cloud Identity User Repository ([blog](https://www.ibm.com/blog/protecting-your-cloud-applications-with-app-id-and-existing-ibm-cloud-identity-user-repository/))
 - Serving Cached Content Using Cloud Internet Services, Cloud Object Storage and Certificate Manager ([blog](https://www.ibm.com/blog/serving-cached-content-using-cloud-internet-services-cloud-object-storage-and-certificate-manager/))
+
+### Tech reviewer, bar raiser only
+- Automating chaos experiments with AWS Fault Injection Service and AWS Lambda ([blog](https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/))
+- 
+
 
 ## Code
 - Efficiently processing batched data using parallelization in AWS Lambda ([repo](https://github.com/aws-samples/lambda-with-multithreading))
