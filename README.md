@@ -12,6 +12,7 @@
 - AWS re:invent 2023 - Building multi-tenant applications with Lambda and Fargate
 - AWS re:Invent 2022 - The art of the possible with AWS Step Functions
 - AWS re:Invent 2022 - Using Lambda extensions for enhanced observability
+- Techstrong - Scaling Serverless Development with Platform Engineering ([webinar](https://webinars.techstronglearning.com/scaling-serverless-development-with-platform-engineering))
 - HashiConf 2024 - Accelerate serverless deployments using HashiCorp Terraform ([video](https://youtu.be/P2x9pahh_xc?si=0xSDlaigorKi2CpW))
 - Building serverless applications on AWS with HashiCorp Terraform ([webinar](https://www.hashicorp.com/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-americas))
 - Building SaaS on AWS - Multi-tenant sharding strategies in SaaS applications ([video](https://www.youtube.com/live/hduzRipB9c8?si=2BUFSO0o808fdEo9))
