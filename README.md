@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonal80/)
 
-
 ## Talks
 - AWS re:Invent 2024 - Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
 - AWS re:Invent 2024 - Improve throughput and monitoring of serverless streaming workloads ([slides](https://github.com/aal80/reinvent2024-svs217/blob/main/SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true), [video](https://www.youtube.com/watch?v=V8w35g7shIY), [resources](https://github.com/aal80/reinvent2024-svs217))
