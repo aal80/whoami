@@ -1,4 +1,5 @@
-# Anton Aleksandrov
+# Anton Aleksandrov - whoami
+(some of the stuff I've been working on lately)
 
 ![](anton-photo-small.jpeg)
 
