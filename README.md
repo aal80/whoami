@@ -39,9 +39,3 @@
 - Intelligent Mobile Application Update (Patent No. 9952851, 9934020) 
 - Processing Hybrid Data Using A Single Web Client (Patent No. 9930130, 9648124, 9525587)
 - Integrating Remote Content with Local Content (Publication No. 20130307871)
-
-
-- Method for intelligent Mobile application update using contextual as well as P2P information (US IN820140683)
-- Integrating Remote Content with Local Content (US US20130307872)
-- A method for lightweight update of mobile hybrid applications (US IL820140053)
-- A single communication and remote invocation module (US IL820140046)
