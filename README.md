@@ -1,8 +1,16 @@
-# Anton Aleksandrov
+# Anton Aleksandrov - whoami
 
 ## Talks
-- AWS re:Invent 2024 Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
-- AWS re:Invent 2024 Improve throughput and monitoring of serverless streaming workloads ([slides](https://github.com/aal80/reinvent2024-svs217/blob/main/SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true), [video](https://www.youtube.com/watch?v=V8w35g7shIY), [resources](https://github.com/aal80/reinvent2024-svs217))
+- AWS re:Invent 2024 - Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
+- AWS re:Invent 2024 - Improve throughput and monitoring of serverless streaming workloads ([slides](https://github.com/aal80/reinvent2024-svs217/blob/main/SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true), [video](https://www.youtube.com/watch?v=V8w35g7shIY), [resources](https://github.com/aal80/reinvent2024-svs217))
+- Serverless Office Hours - Serverless Platform Engineering ([video](https://www.youtube.com/live/Lus02Lv-nA8?si=aHsETwaLd38K9F7j)]
+- Serverless Office Hours - Building Serverless Apps with Terraform ([video](https://www.youtube.com/live/jcktUgozJj8?si=5CDQ7A834pcjSutL)]
+- Serverless Office Hours - Multi-tenant serverless SaaS ([video](https://www.youtube.com/live/mOe-yIUCxbE?si=DEwKl4HowLeVKrMg)]
+- Serverless Office Hours - 123([video]()]
+- Automate container security with Amazon Bedrock, ECR, EKS, Inspector, and Lambda ([video](https://www.youtube.com/live/Nn8cOeAaN6A?si=cY7_OVNj_YC5qLXm))
+- LASCON 2024 - Applying generative AI to CVE remediation ([video](https://youtu.be/7oxHBwioRAw?si=EamnfFb2c7QYD_HD))
+- LASCON 2023 - Reverse-engineering the Enigma Machine and rebuilding with serverless ([video](https://youtu.be/v_K1tDLapgE?si=UG3IKW7oHUpf3FH-))
+- LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6))
 
 ## Publications
 - [From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/)
