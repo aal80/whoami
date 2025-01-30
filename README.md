@@ -51,7 +51,7 @@
 - Protecting Your Cloud Applications with App ID and Existing IBM Cloud Identity User Repository ([blog](https://www.ibm.com/blog/protecting-your-cloud-applications-with-app-id-and-existing-ibm-cloud-identity-user-repository/))
 - Serving Cached Content Using Cloud Internet Services, Cloud Object Storage and Certificate Manager ([blog](https://www.ibm.com/blog/serving-cached-content-using-cloud-internet-services-cloud-object-storage-and-certificate-manager/))
 
-### Tech reviewer, bar raiser only
+### Reviewer, advisor
 - Automating chaos experiments with AWS Fault Injection Service and AWS Lambda ([blog](https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/))
 - Protecting REST APIs Behind Amazon API Gateway Using Okta ([blog](https://auth0.com/blog/protecting-rest-apis-behind-aws-api-gateway/))
 - Building a three-tier architecture on a budget ([blog](https://aws.amazon.com/blogs/architecture/building-a-three-tier-architecture-on-a-budget/))
