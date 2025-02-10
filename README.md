@@ -1,9 +1,16 @@
 # Anton Aleksandrov - whoami
-(some of the stuff I've been working on lately)
 
 ![](anton-photo-small.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonal80/)
+
+## In short
+- 2021-now, Principal Solutions Architect, Serverless and Event-driven architectures, AWS
+- 2019-2021, Chief Architect, IBM Cloud Security Services
+- 2017-2019, Chief Architect, IBM Cloud Application Identity Service
+- 2012-2017, Architect, IBM Cloud MobileFirst Platform
+- 2010-2012, Software Engineer/Solutions Architect, Worklight (aqcuired by IBM)
+- 2000-2010, QA Engineer, Integrations Engineer, Software Engineer, etc etc etc
 
 ## Talks
 - AWS re:Invent 2024 - Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
