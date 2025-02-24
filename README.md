@@ -4,12 +4,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonal80/)
 
-## In short
 - 2021-now, Principal Solutions Architect, Serverless and Event-driven architectures, AWS
 - 2019-2021, Chief Architect, IBM Cloud Security Services
 - 2017-2019, Chief Architect, IBM Cloud Application Identity Service
 - 2012-2017, Architect, IBM Cloud MobileFirst Platform
-- 2010-2012, Software Engineer/Solutions Architect, Worklight (aqcuired by IBM)
+- 2010-2012, Software Engineer/Solutions Architect, Worklight (acquired by IBM)
 - 2000-2010, QA Engineer, Integrations Engineer, Software Engineer, etc etc etc
 
 ## Talks
