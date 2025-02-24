@@ -11,7 +11,10 @@
 - 2010-2012, Software Engineer/Solutions Architect, Worklight (acquired by IBM)
 - 2000-2010, QA Engineer, Integrations Engineer, Software Engineer, etc etc etc
 
-## Talks
+<a name="top"></a>
+Jump to: [Talks](#talks) | [Publications](#publications) | [Code](#code) | [Patents](#patents) | [Misc](#misc)
+
+## <a name="talks">Talks</a>
 - AWS re:Invent 2024 - Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
 - AWS re:Invent 2024 - Improve throughput and monitoring of serverless streaming workloads ([slides](https://github.com/aal80/reinvent2024-svs217/blob/main/SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true), [video](https://www.youtube.com/watch?v=V8w35g7shIY), [resources](https://github.com/aal80/reinvent2024-svs217))
 - AWS re:Invent 2023 - Combining EventBridge and Step Functions - advanced usecases and best practices ([slides](https://github.com/aal80/content/blob/main/reinvent2023-sfn-eb-usecases-best-practices.pdf?raw=true))
@@ -39,7 +42,7 @@
 - LASCON 2018 - GDPR for Cloud Applications ([slides](https://github.com/aal80/content/blob/main/lascon-2018-gdpr-for-cloud-apps.pdf?raw=true))
 - (And probably at least a couple dozen more talks in the last 10 years...)
 
-## Publications
+## <a name="publications">Publications</a>
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([case study](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
 - Introducing cross-account targets for Amazon EventBridge Event Buses ([blog](https://aws.amazon.com/blogs/compute/introducing-cross-account-targets-for-amazon-eventbridge-event-buses/))
 - Automate Early Security Patching in CI Pipelines on AWS Using NVIDIA AI Blueprints ([blog](https://developer.nvidia.com/blog/automate-early-security-patching-in-ci-pipelines-on-aws-using-nvidia-ai-blueprints/))
@@ -69,7 +72,7 @@
 - Building a three-tier architecture on a budget ([blog](https://aws.amazon.com/blogs/architecture/building-a-three-tier-architecture-on-a-budget/))
 - Protegrity Data Protection for Amazon S3 and Snowflake ([blog](https://docs.aws.amazon.com/architecture-diagrams/latest/protegrity-data-protection-for-amazon-s3-and-snowflake/protegrity-data-protection-for-amazon-s3-and-snowflake.html))
   
-## Code
+## <a name="code">Code</a>
 - Efficiently processing batched data using parallelization in AWS Lambda ([repo](https://github.com/aws-samples/lambda-with-multithreading))
 - Introducing faster polling scale-up for AWS Lambda functions configured with Amazon SQS ([repo](https://github.com/aws-samples/lambda-sqs-event-source-mapping-scaling-improvements))
 - Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([repo](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-lambda-runtime-api-proxy-extension))
@@ -83,7 +86,7 @@
 - Lambda functions on deprecated runtimes finder ([repo](https://github.com/aal80/lambda-on-deprecated-runtimes-finder))
 - Lambda runtimes status (updated daily)] ([repo](https://github.com/aal80/lambda-on-deprecated-runtimes-finder/blob/main/deprecated_runtimes.json))
 
-## Patents
+## <a name="patents">Patents</a>
 - Trusted Repository Review (Patent No. 12124583) ([link](https://patents.google.com/patent/US12124583B2/en?oq=12124583))
 - User Profile Access From Engaging Applications With Privacy Assurance Associated With An API (Patent No. 11122048) ([link](https://patents.google.com/patent/US11122048B2/en?oq=11122048))
 - Updating Web Resources (Patent No. 10713034, 10694353, 10212563, 10282191, 9921821, 9733919, 9690563) ([link](https://patents.google.com/patent/US10713034B2/en?oq=10713034))
@@ -91,7 +94,7 @@
 - Processing Hybrid Data Using A Single Web Client (Patent No. 9930130, 9648124, 9525587) ([link](https://patents.google.com/patent/US9930130B2/en?oq=9930130))
 - Integrating Remote Content with Local Content (Publication No. 20130307871) ([link](https://patents.google.com/patent/US20130307871A1/en?oq=20130307871))
 
-## Oldies, but still goodies
+## <a name="misc">Oldies, but still goodies</a>
 
 ### IBM Cloud App ID video guides series
 - Technologies Under the Hood ([video](https://youtu.be/ndlk-ZhKGXM))
