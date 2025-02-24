@@ -33,7 +33,7 @@
 - Automate container security with Amazon Bedrock, ECR, EKS, Inspector, and Lambda ([video](https://www.youtube.com/live/Nn8cOeAaN6A?si=cY7_OVNj_YC5qLXm))
 - KubeCon - Declaratively Securing Kubernetes Applications with Zero Code Updates ([slides](https://github.com/aal80/content/blob/main/kubecon-2019-multicloud-identity-and-access-management.pdf?raw=true))
 - LASCON - Applying generative AI to CVE remediation ([video](https://youtu.be/7oxHBwioRAw?si=EamnfFb2c7QYD_HD) [slides](https://github.com/aal80/content/blob/main/lascon-applying-generative-ai-to-cve-remediation.pdf?raw=true))
-- LASCON - Reverse-engineering the Enigma Machine and rebuilding with serverless ([video](https://youtu.be/v_K1tDLapgE?si=UG3IKW7oHUpf3FH-))
+- LASCON - Reverse-engineering the Enigma Machine and rebuilding with serverless ([video](https://youtu.be/v_K1tDLapgE?si=UG3IKW7oHUpf3FH-) [slides](https://github.com/aal80/content/blob/main/lascon-2023-enigma-machine.pdf?raw=true))
 - LASCON - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6) [slides](https://github.com/aal80/content/blob/main/demystifying-oаuth2-and-oidc-а-visual-journey.pdf?raw=true))
 - LASCON - Building secure cloud apps (and sleeping well at night) ([slides](https://github.com/aal80/content/blob/main/lascon-2019-buildin-secure-cloud-apps.pdf?raw=true))
 - LASCON - GDPR for Cloud Applications ([slides](https://github.com/aal80/content/blob/main/lascon-2018-gdpr-for-cloud-apps.pdf?raw=true))
