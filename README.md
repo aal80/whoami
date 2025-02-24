@@ -12,24 +12,28 @@
 - 2000-2010, QA Engineer, Integrations Engineer, Software Engineer, etc etc etc
 
 ## Talks
-- AWS re:Invent 2024 - Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
-- AWS re:Invent 2024 - Improve throughput and monitoring of serverless streaming workloads ([slides](https://github.com/aal80/reinvent2024-svs217/blob/main/SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true), [video](https://www.youtube.com/watch?v=V8w35g7shIY), [resources](https://github.com/aal80/reinvent2024-svs217))
-- AWS re:Invent 2023 - Combining EventBridge and Step Functions - advanced usecases and best practices
-- AWS re:invent 2023 - Building multi-tenant applications with Lambda and Fargate
-- AWS re:Invent 2022 - The art of the possible with AWS Step Functions
-- AWS re:Invent 2022 - Using Lambda extensions for enhanced observability
-- Techstrong - Scaling Serverless Development with Platform Engineering ([webinar](https://webinars.techstronglearning.com/scaling-serverless-development-with-platform-engineering))
-- HashiConf 2024 - Accelerate serverless deployments using HashiCorp Terraform ([video](https://youtu.be/P2x9pahh_xc?si=0xSDlaigorKi2CpW))
+- AWS re:Invent - Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
+- AWS re:Invent - Improve throughput and monitoring of serverless streaming workloads ([slides](https://github.com/aal80/reinvent2024-svs217/blob/main/SVS217_improve_throughput_and_observability_serverless_streaming.pdf?raw=true), [video](https://www.youtube.com/watch?v=V8w35g7shIY), [resources](https://github.com/aal80/reinvent2024-svs217))
+- AWS re:Invent - Combining EventBridge and Step Functions - advanced usecases and best practices ([slides](https://github.com/aal80/content/blob/main/reinvent2023-sfn-eb-usecases-best-practices.pdf?raw=true))
+- AWS re:invent - Building multi-tenant applications with Lambda and Fargate ([slides](https://github.com/aal80/content/blob/main/reinvent2023-building-saas-with-lambda-and-fargate.pdf?raw=true))
+- AWS re:Invent - What's possible with AWS Step Functions ([slides](https://github.com/aal80/content/blob/main/reinvent2022-whats-possible-with-step-functions.pdf?raw=true))
+- AWS PartnerEquip - Using Lambda extensions for enhanced observability ([slides](https://github.com/aal80/content/blob/main/lambda-extensions-webinar.pdf?raw=true))
+- What's new in Serverless 2025 ([slides](https://github.com/aal80/content/blob/main/2025-whats-new-in-serverless.pdf?raw=true))
+- What's new in Serverless 2024 ([slides](https://github.com/aal80/content/blob/main/2024-whats-new-in-serverless.pdf?raw=true))
+- What's new in Serverless 2023 ([slides](https://github.com/aal80/content/blob/main/2023-whats-new-in-serverless.pdf?raw=true))
+- Scaling Serverless Development with Platform Engineering ([webinar](https://webinars.techstronglearning.com/scaling-serverless-development-with-platform-engineering) [slides](https://github.com/aal80/content/blob/main/serverless-platform-engineering.pdf?raw=true))
+- Building multi-tenant SaaS applications with AWS Serverless ([slides](https://github.com/aal80/content/blob/main/sel-building-multitenant-saas-using-serverless.pdf?raw=true))
+- HashiConf 2024 - Accelerate serverless deployments using HashiCorp Terraform ([video](https://youtu.be/P2x9pahh_xc?si=0xSDlaigorKi2CpW) [slides](https://github.com/aal80/content/blob/main/hashiconf2024-building-serverless-apps-with-terraform.pdf?raw=true))
 - Building serverless applications on AWS with HashiCorp Terraform ([webinar](https://www.hashicorp.com/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-americas))
-- Building SaaS on AWS - Multi-tenant sharding strategies in SaaS applications ([video](https://www.youtube.com/live/hduzRipB9c8?si=2BUFSO0o808fdEo9))
+- Building SaaS on AWS - Multi-tenant sharding strategies in SaaS applications ([video](https://www.youtube.com/live/hduzRipB9c8?si=2BUFSO0o808fdEo9) [slides](https://github.com/aal80/content/blob/main/serverless-shuffle-sharding.pdf))
 - Serverless Office Hours - Serverless Platform Engineering ([video](https://www.youtube.com/live/Lus02Lv-nA8?si=aHsETwaLd38K9F7j))
 - Serverless Office Hours - Building Serverless Apps with Terraform ([video](https://www.youtube.com/live/jcktUgozJj8?si=5CDQ7A834pcjSutL))
 - Serverless Office Hours - Building real-life asynchronous architectures ([video](https://www.youtube.com/live/tkLEaaUmC30?si=k0Xg-VwHm-nOvjaW))
 - Serverless Office Hours - Multi-tenant serverless SaaS applications with AWS Serverless ([video](https://www.youtube.com/live/mOe-yIUCxbE?si=DEwKl4HowLeVKrMg))
 - Automate container security with Amazon Bedrock, ECR, EKS, Inspector, and Lambda ([video](https://www.youtube.com/live/Nn8cOeAaN6A?si=cY7_OVNj_YC5qLXm))
-- LASCON 2024 - Applying generative AI to CVE remediation ([video](https://youtu.be/7oxHBwioRAw?si=EamnfFb2c7QYD_HD))
+- LASCON 2024 - Applying generative AI to CVE remediation ([video](https://youtu.be/7oxHBwioRAw?si=EamnfFb2c7QYD_HD) [slides](https://github.com/aal80/content/blob/main/lascon-applying-generative-ai-to-cve-remediation.pdf?raw=true))
 - LASCON 2023 - Reverse-engineering the Enigma Machine and rebuilding with serverless ([video](https://youtu.be/v_K1tDLapgE?si=UG3IKW7oHUpf3FH-))
-- LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6))
+- LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6) [slides](https://github.com/aal80/content/blob/main/demystifying-oаuth2-and-oidc-а-visual-journey.pdf?raw=true))
 - KubeCon 2019 - Declaratively Securing Kubernetes Applications with Zero Code Updates
 - (And probably at least a couple dozen more talks in the last 10 years...)
 
