@@ -39,7 +39,7 @@ Jump to: [Talks](#talks) \| [Publications](#publications) \| [Code](#code) \| [P
 - LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6), [slides](https://github.com/aal80/content/blob/main/lascon-2022-demystifying-oаuth2-and-oidc-а-visual-journey.pdf?raw=true))
 - LASCON 2019 - Building secure cloud apps (and sleeping well at night) ([slides](https://github.com/aal80/content/blob/main/lascon-2019-buildin-secure-cloud-apps.pdf?raw=true))
 - LASCON 2018 - GDPR for Cloud Applications ([slides](https://github.com/aal80/content/blob/main/lascon-2018-gdpr-for-cloud-apps.pdf?raw=true))
-- (And probably at least a couple dozen more talks in the last 10 years...)
+- (And quite a few more in the last ~15 years...)
 
 ## <a name="publications">Publications</a> ([↑](#top))
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([case study](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
