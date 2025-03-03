@@ -11,7 +11,7 @@
 - 2010-2012, Software Engineer/Solutions Architect, Worklight (acquired by IBM)
 - 2000-2010, QA Engineer, Integrations Engineer, Software Engineer, etc etc etc
 
-Jump to: [Talks](#talks) | [Publications](#publications) | [Code](#code) | [Patents](#patents) | [Misc](#misc)
+Jump to: [Talks](#talks) \| [Publications](#publications) \| [Code](#code) \| [Patents](#patents) \| [Misc](#misc)
 
 ## <a name="talks">Talks</a> ([↑](#top))
 - AWS re:Invent 2024 - Accelerate serverless deployments using Terraform with proven patterns ([slides](https://github.com/aal80/reinvent2024-svs320/blob/main/SVS320_terraform_for_serverless.pdf?raw=true), [video](https://www.youtube.com/watch?v=fX7c2GGqTWs), [resources](https://github.com/aal80/reinvent2024-svs320))
