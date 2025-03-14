@@ -1,15 +1,3 @@
----
-head-custom: |
-  <!-- Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BL39EYBPX2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-BL39EYBPX2');
-  </script>
----
-
 # Anton Aleksandrov - whoami<a name="top"></a>
 
 ![](anton-photo-small.jpeg)
