@@ -42,6 +42,7 @@ Jump to: [Talks](#talks) \| [Publications](#publications) \| [Code](#code) \| [P
 - (And quite a few more in the last ~15 years...)
 
 ## <a name="publications">Publications</a> ([↑](#top))
+- Optimizing network footprint in serverless applications ([blog](https://aws.amazon.com/blogs/compute/optimizing-network-footprint-in-serverless-applications/))
 - Handling billions of invocations – best practices from AWS Lambda ([blog](https://aws.amazon.com/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/))
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([case study](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
 - Introducing cross-account targets for Amazon EventBridge Event Buses ([blog](https://aws.amazon.com/blogs/compute/introducing-cross-account-targets-for-amazon-eventbridge-event-buses/))
