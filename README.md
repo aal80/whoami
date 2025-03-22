@@ -33,7 +33,7 @@ Jump to: [Talks](#talks) \| [Publications](#publications) \| [Code](#code) \| [P
 - Serverless Office Hours - Building real-life asynchronous architectures ([video](https://www.youtube.com/live/tkLEaaUmC30?si=k0Xg-VwHm-nOvjaW))
 - Serverless Office Hours - Multi-tenant serverless SaaS applications with AWS Serverless ([video](https://www.youtube.com/live/mOe-yIUCxbE?si=DEwKl4HowLeVKrMg))
 - Automate container security with Amazon Bedrock, ECR, EKS, Inspector, and Lambda ([video](https://www.youtube.com/live/Nn8cOeAaN6A?si=cY7_OVNj_YC5qLXm))
-- KubeCon - Declaratively Securing Kubernetes Applications with Zero Code Updates ([slides](https://github.com/aal80/content/blob/main/kubecon-2019-multicloud-identity-and-access-management.pdf?raw=true))
+- KubeCon 2019 - Declaratively Securing Kubernetes Applications with Zero Code Updates ([slides](https://github.com/aal80/content/blob/main/kubecon-2019-multicloud-identity-and-access-management.pdf?raw=true))
 - LASCON 2024 - Applying generative AI to CVE remediation ([video](https://youtu.be/7oxHBwioRAw?si=EamnfFb2c7QYD_HD), [slides](https://github.com/aal80/content/blob/main/lascon-2024--applying-generative-ai-to-cve-remediation.pdf?raw=true))
 - LASCON 2023 - Reverse-engineering the Enigma Machine and rebuilding with serverless ([video](https://youtu.be/v_K1tDLapgE?si=UG3IKW7oHUpf3FH-), [slides](https://github.com/aal80/content/blob/main/lascon-2023-enigma-machine.pdf?raw=true))
 - LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6), [slides](https://github.com/aal80/content/blob/main/lascon-2022-demystifying-oаuth2-and-oidc-а-visual-journey.pdf?raw=true))
