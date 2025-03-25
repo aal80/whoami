@@ -62,6 +62,7 @@ Jump to: [Talks](#talks) \| [Publications](#publications) \| [Code](#code) \| [P
 - Propagating valid mTLS client certificate identity to downstream services using Amazon API Gateway ([blog](https://aws.amazon.com/blogs/compute/propagating-valid-mtls-client-certificate-identity-to-downstream-services-using-amazon-api-gateway/))
 - Extending your SaaS platform with AWS Lambda ([blog](https://aws.amazon.com/blogs/architecture/extending-your-saas-platform-with-aws-lambda/))
 - Using Istio to secure multi-cloud Kubernetes applications with zero code changes ([blog](https://istio.io/latest/blog/2019/app-identity-and-access-adapter/))
+- IBM Cloud App ID White Paper ([whitepaper](https://www.dropbox.com/scl/fi/4r94hc7jx1tfkzg0r21x2/2019-appid-whitepaper.pdf?rlkey=5pctp7nbjogvm0ai2omc019my&st=r7t8iyy2&dl=0))
 - Adding Sign In to Multicloud Applications Without Code Changes ([blog](https://www.ibm.com/blog/adding-sign-in-to-multicloud-applications-without-code-changes/))
 - Add Authentication and Access Control to your Apps with IBM Cloud App ID—Video Tutorials ([blog](https://www.ibm.com/blog/easily-add-authentication-and-access-control-to-your-applications-with-ibm-cloud-app-id-video-tutorials/))
 - Reusing Existing Red Hat SSO and Keycloak for Applications That Run on IBM Cloud with App ID ([blog](https://www.ibm.com/blog/reusing-existing-red-hat-sso-and-keycloak-for-applications-that-run-on-ibm-cloud-with-app-id/))
