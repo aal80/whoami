@@ -1,17 +1,5 @@
 # Anton Aleksandrov - whoami<a name="top"></a>
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    # Column 1
-    foobar
-  </div>
-  <div style="flex: 1;">
-    # Column 2
-    foobar
-  </div>
-</div>
-
-
 ![](anton-photo-small.jpeg)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonal80/)
