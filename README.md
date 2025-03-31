@@ -29,6 +29,7 @@ Jump to: [Talks](#talks) \| [Publications](#publications) \| [Code](#code) \| [P
 - HashiConf 2024 - Accelerate serverless deployments using HashiCorp Terraform ([video](https://youtu.be/P2x9pahh_xc?si=0xSDlaigorKi2CpW), [slides](https://www.dropbox.com/scl/fi/ydtr3w77rmv3jx5wbgghj/hashiconf-2024-building-serverless-apps-with-terraform.pdf?rlkey=ca274dze8yk34avjkp10lxfog&st=7odkaka6&dl=0))
 - Building serverless applications on AWS with HashiCorp Terraform ([webinar](https://www.hashicorp.com/events/webinars/building-serverless-applications-on-aws-with-hashicorp-terraform-americas))
 - Building SaaS on AWS - Multi-tenant sharding strategies in SaaS applications ([video](https://www.youtube.com/live/hduzRipB9c8?si=2BUFSO0o808fdEo9), [slides](https://www.dropbox.com/scl/fi/ke8pl3s0t9huiui6c4elj/2023-serverless-shuffle-sharding.pdf?rlkey=9hd4058mci0xpt1n6yjw3a89i&st=gboght8g&dl=0))
+- Serverless Office Hours - Scaling Apache Kafka Processing ([video](https://www.youtube.com/live/iDffuu733v0?si=oJZQy9aqguo0gyCu))
 - Serverless Office Hours - Serverless Platform Engineering ([video](https://www.youtube.com/live/Lus02Lv-nA8?si=aHsETwaLd38K9F7j))
 - Serverless Office Hours - Building Serverless Apps with Terraform ([video](https://www.youtube.com/live/jcktUgozJj8?si=5CDQ7A834pcjSutL))
 - Serverless Office Hours - Building real-life asynchronous architectures ([video](https://www.youtube.com/live/tkLEaaUmC30?si=k0Xg-VwHm-nOvjaW))
