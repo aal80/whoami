@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>{{ page.title }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="top" class="container-xxl">
+        <div class="row">
+            <h1>Anton Aleksandrov</h1>
+            <div class="col-12 col-lg-6">
+                <img class="img-fluid" src="./images/anton-photo-small.jpeg" />
+                <br />
+                <a class="btn" role="button" href="https://www.linkedin.com/in/antonal80/" target="_blank">
+                    <img
+                        src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+                </a>
+                <ul>
+                    <li>2021-now, Principal Solutions Architect, Serverless and Event-driven architectures, AWS</li>
+                    <li>2019-2021, Chief Architect, IBM Cloud Security Services</li>
+                    <li>2017-2019, Chief Architect, IBM Cloud Application Identity Service</li>
+                    <li>2012-2017, Architect, IBM Cloud MobileFirst Platform</li>
+                    <li>2000-2012, Integrations Engineer, Software Engineer, Solutions Engineer etc etc etc</li>
+                </ul>
+            </div>
+            <div id="badges" class="col-12 col-lg-6">
+                <p>
+                    <img class="img-fluid" src="./images/badge-aws-sa.png" />
+                    <img class="img-fluid" src="./images/badge-terraform-associate.png" />
+                    <img class="img-fluid" src="./images/badge-hashi-ambassador.png" />
+                    <img class="img-fluid" src="./images/badge-aws-serverless.png" />
+                    <img class="img-fluid" src="./images/badge-ibm-developer.png" />
+                    <img class="img-fluid" src="./images/badge-ibm-patents.png" />
+                    <img class="img-fluid" src="./images/badge-onug.png" />
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-6">
+{% capture publications %}
+{% include publications.md %}
+{% endcapture %}
+{{ publications | markdownify }}
+            </div>
+            <div class="col-12 col-lg-6">
+{% capture talks %}
+{% include talks.md %}
+{% endcapture %}
+{{ talks | markdownify }}
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12 col-lg-6">
+{% capture code %}
+{% include code.md %}
+{% endcapture %}
+{{ code | markdownify }}
+            </div>
+            <div class="col-12 col-lg-6">
+{% capture reviewer %}
+{% include reviewer.md %}
+{% endcapture %}
+{{ reviewer | markdownify }}
+
+{% capture patents %}
+{% include patents.md %}
+{% endcapture %}
+{{ patents | markdownify }}
+
+            </div>
+        </div>
+    
+        <div class="row">
+            <h2>Oldies, but still goodies (<a href="#top">â</a>)</h2>
+            <div class="col-12 col-lg-6">
+{% capture oldies1 %}
+{% include oldies1.md %}
+{% endcapture %}
+{{ oldies1 | markdownify }}
+            </div>
+            <div class="col-12 col-lg-6">
+{% capture oldies2 %}
+{% include oldies2.md %}
+{% endcapture %}
+{{ oldies2 | markdownify }}
+            </div>
+        </div>
+    </div>
+    <script>
+        document.querySelectorAll('a').forEach(link => {
+            if (!link.href.startsWith('https')) return;
+            link.setAttribute('target', '_blank');
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+#top {
+    max-width: 2000px;
+}
+
+h2 {
+    border-bottom: 1px solid black;
+}
+
+li {
+    line-height: 1.75;
+}
+
+@media (max-width: 992px){
+    #badges img {
+        width: 60px;
+    }
+}

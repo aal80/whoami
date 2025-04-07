@@ -1,2 +1,6 @@
-name: whoami
-title: null
+title: Anton Aleksandrov - Who am I
+
+exclude:
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
