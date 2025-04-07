@@ -94,7 +94,7 @@
     </div>
     <script>
         document.querySelectorAll('a').forEach(link => {
-            if (!link.href.startsWith('https')) return;
+            if (link.href.includes('#top')) return;
             link.setAttribute('target', '_blank');
         });
     </script>
