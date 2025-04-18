@@ -1,5 +1,6 @@
 ## Publications ([↑](#top))
 
+- How Smartsheet reduced latency and optimized costs in their serverless architecture ([blog](https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/))
 - Optimizing network footprint in serverless applications ([blog](https://aws.amazon.com/blogs/compute/optimizing-network-footprint-in-serverless-applications/))
 - Handling billions of invocations – best practices from AWS Lambda ([blog](https://aws.amazon.com/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/))
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([case study](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
