@@ -5,4 +5,4 @@
 - Protecting REST APIs Behind Amazon API Gateway Using Okta ([link](https://auth0.com/blog/protecting-rest-apis-behind-aws-api-gateway/))
 - Building a three-tier architecture on a budget ([link](https://aws.amazon.com/blogs/architecture/building-a-three-tier-architecture-on-a-budget/))
 - Protegrity Data Protection for Amazon S3 and Snowflake ([link](https://docs.aws.amazon.com/architecture-diagrams/latest/protegrity-data-protection-for-amazon-s3-and-snowflake/protegrity-data-protection-for-amazon-s3-and-snowflake.html))
-.md
+
