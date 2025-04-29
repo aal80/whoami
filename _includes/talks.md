@@ -1,5 +1,6 @@
 ## Talks ([↑](#top))
 
+- Serverless Office Hours - Handling billions of AWS Lambda invocations ([video](https://www.twitch.tv/videos/2445906263))
 - NVIDIA GTC 2025 - Automated Vulnerability Patching in CI pipines for Financial Services organizations ([slides](https://www.dropbox.com/scl/fi/1z730koscezdcmh06uzy3/gtc-2025-applying-genai-to-cve-remediation.pdf?rlkey=g74yliakvx1rkm8jvy2e59pl3&st=0s7w2b7b&dl=0))
 - Serverless Office Hours - Scaling Apache Kafka Processing ([video](https://www.youtube.com/live/iDffuu733v0?si=oJZQy9aqguo0gyCu))
 - What's new in Serverless 2025 ([slides](https://www.dropbox.com/scl/fi/8zei401dweviec692827g/2025-whats-new-in-serverless.pdf?rlkey=11lrrhrgen0n85w9wet60b6u7&st=7fpusjvr&dl=0))
