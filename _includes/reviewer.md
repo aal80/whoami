@@ -1,5 +1,6 @@
 ## Reviewer/advisor ([↑](#top))
 
+- AWS Lambda introduces tiered pricing for Amazon CloudWatch logs and additional logging destinations ([link](https://aws.amazon.com/blogs/compute/aws-lambda-introduces-tiered-pricing-for-amazon-cloudwatch-logs-and-additional-logging-destinations/))
 - Streamlining trace sampling behavior for AWS Lambda functions with AWS X-Ray ([link](https://aws.amazon.com/blogs/compute/streamlining-trace-sampling-behavior-for-aws-lambda-functions-with-aws-x-ray/))
 - Automating chaos experiments with AWS Fault Injection Service and AWS Lambda ([link](https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/))
 - Protecting REST APIs Behind Amazon API Gateway Using Okta ([link](https://auth0.com/blog/protecting-rest-apis-behind-aws-api-gateway/))
