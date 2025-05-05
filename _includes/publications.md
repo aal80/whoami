@@ -1,5 +1,6 @@
 ## Publications ([↑](#top))
 
+- Monitoring network traffic in AWS Lambda functions ([link](https://aws.amazon.com/blogs/compute/monitoring-network-traffic-in-aws-lambda-functions/))
 - Building Serverless MCP Servers and What Does Peppa Pig Have To Do With It ([link](https://www.ranthebuilder.cloud/post/building-serverless-mcp-server))
 - How Smartsheet reduced latency and optimized costs in their serverless architecture ([link](https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/))
 - Optimizing network footprint in serverless applications ([link](https://aws.amazon.com/blogs/compute/optimizing-network-footprint-in-serverless-applications/))
