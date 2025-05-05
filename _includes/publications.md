@@ -16,7 +16,7 @@
 - Integrating the AWS Lambda Telemetry API with Prometheus and OpenSearch ([link](https://aws.amazon.com/blogs/opensource/integrating-the-aws-lambda-telemetry-api-with-prometheus-and-opensearch/))
 - Cost optimization for AWS Lambda Guide ([link](https://serverlessland.com/content/service/lambda/guides/cost-optimization/1-fine-tuning))
 - Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([link](https://aws.amazon.com/blogs/compute/enhancing-runtime-security-and-governance-with-the-aws-lambda-runtime-api-proxy-extension/))
-- How SeatGeek uses AWS Serverless to control authorization, authentication, and rate-limiting in a multi-tenant SaaS application ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
+- How SeatGeek uses Serverless to control authorization, authentication, and rate-limiting in a multi-tenant SaaS application ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
 - Implementing long-running TCP Connections within VPC networking ([link](https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-long-running-tcp-connections-within-vpc-networking/))
 - Introducing the AWS Lambda Telemetry API ([link](https://aws.amazon.com/blogs/compute/introducing-the-aws-lambda-telemetry-api/))
 - Propagating valid mTLS client certificate identity to downstream services using Amazon API Gateway ([link](https://aws.amazon.com/blogs/compute/propagating-valid-mtls-client-certificate-identity-to-downstream-services-using-amazon-api-gateway/))
