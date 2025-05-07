@@ -1,6 +1,7 @@
 ## Code ([↑](#top))
 
-- Sample Serverless MCP Servers ([link](https://github.com/aws-samples/sample-serverless-mcp-servers))
+- Serverless MCP Servers ([link](https://github.com/aws-samples/sample-serverless-mcp-servers))
+- Lambda Network Monitoring ([link](https://github.com/aws-samples/sample-lambda-network-monitor))
 - Efficiently processing batched data using parallelization in AWS Lambda ([link](https://github.com/aws-samples/lambda-with-multithreading))
 - Introducing faster polling scale-up for AWS Lambda functions configured with Amazon SQS ([link](https://github.com/aws-samples/lambda-sqs-event-source-mapping-scaling-improvements))
 - Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([link](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-lambda-runtime-api-proxy-extension))
