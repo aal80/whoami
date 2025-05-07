@@ -1,6 +1,6 @@
 ## Code ([↑](#top))
 
-- One of the first MCP Servers in the world running natively on AWS Lambda ([link](https://github.com/aal80/simple-mcp-server-on-lambda/tree/main))
+- Sample Serverless MCP Servers ([link](https://github.com/aws-samples/sample-serverless-mcp-servers))
 - Efficiently processing batched data using parallelization in AWS Lambda ([link](https://github.com/aws-samples/lambda-with-multithreading))
 - Introducing faster polling scale-up for AWS Lambda functions configured with Amazon SQS ([link](https://github.com/aws-samples/lambda-sqs-event-source-mapping-scaling-improvements))
 - Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([link](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-lambda-runtime-api-proxy-extension))
