@@ -1,5 +1,6 @@
 ## Reviewer/advisor ([↑](#top))
 
+- AWS Serverless MCP Server: AI-powered development for modern applications ([link](https://aws.amazon.com/blogs/compute/introducing-aws-serverless-mcp-server-ai-powered-development-for-modern-applications/))
 - AWS Lambda introduces tiered pricing for Amazon CloudWatch logs and additional logging destinations ([link](https://aws.amazon.com/blogs/compute/aws-lambda-introduces-tiered-pricing-for-amazon-cloudwatch-logs-and-additional-logging-destinations/))
 - Streamlining trace sampling behavior for AWS Lambda functions with AWS X-Ray ([link](https://aws.amazon.com/blogs/compute/streamlining-trace-sampling-behavior-for-aws-lambda-functions-with-aws-x-ray/))
 - Automating chaos experiments with AWS Fault Injection Service and AWS Lambda ([link](https://aws.amazon.com/blogs/compute/automating-chaos-experiments-with-aws-fault-injection-service-and-aws-lambda/))
