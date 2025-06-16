@@ -1,5 +1,6 @@
 ## Code ([↑](#top))
 
+- Serverless AI Agent (Strands Agents SDK) and MCP Server, with E2E user authorization ([link](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main/strands-agent-on-lambda))
 - Serverless MCP Servers ([link](https://github.com/aws-samples/sample-serverless-mcp-servers))
 - Lambda Network Monitoring ([link](https://github.com/aws-samples/sample-lambda-network-monitor))
 - Efficiently processing batched data using parallelization in AWS Lambda ([link](https://github.com/aws-samples/lambda-with-multithreading))
