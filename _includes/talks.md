@@ -1,5 +1,6 @@
 ## Talks ([↑](#top))
 
+- AWS re:Inforce 2025 - Governance Best Practices for Modern Applications ([slides](https://www.dropbox.com/scl/fi/w5j9wmpx8hrerq1iae91c/reinforce-2025-grc331-governance-for-modern-apps.pdf?rlkey=7jepzm0gtllh53nlgm18gf7mo&st=woomqcvw&dl=0))
 - Platform Engineering Best Practices from AWS and CyberArk ([video](https://www.linkedin.com/events/7325644549580558337))
 - Serverless Office Hours - Handling billions of AWS Lambda invocations ([video](https://www.twitch.tv/videos/2445906263))
 - NVIDIA GTC 2025 - Automated Vulnerability Patching in CI pipines for Financial Services organizations ([slides](https://www.dropbox.com/scl/fi/1z730koscezdcmh06uzy3/gtc-2025-applying-genai-to-cve-remediation.pdf?rlkey=g74yliakvx1rkm8jvy2e59pl3&st=0s7w2b7b&dl=0))
