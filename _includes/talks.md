@@ -1,5 +1,7 @@
 ## Talks ([↑](#top))
 
+- Building AI Agents on AWS ([slides](https://www.dropbox.com/scl/fi/xzs51iplz8vpn5o0s4whq/2025-building-ai-agents-on-aws.pdf?rlkey=m4iw9dvexfyh9yuq1s1be3eef&st=8fpmcgbf&dl=0))
+- Building MCP Servers on AWS ([slides](https://www.dropbox.com/scl/fi/pley3lqj96t8a5f212coe/2025-building-mcp-servers-on-aws.pdf?rlkey=5ip3rqn8iwjhody664t9ihzbm&st=sqt4dno2&dl=0))
 - AWS re:Inforce 2025 - Governance Best Practices for Modern Applications ([slides](https://www.dropbox.com/scl/fi/w5j9wmpx8hrerq1iae91c/reinforce-2025-grc331-governance-for-modern-apps.pdf?rlkey=7jepzm0gtllh53nlgm18gf7mo&st=woomqcvw&dl=0))
 - Platform Engineering Best Practices from AWS and CyberArk ([video](https://www.linkedin.com/events/7325644549580558337))
 - Serverless Office Hours - Handling billions of AWS Lambda invocations ([video](https://www.twitch.tv/videos/2445906263))
