@@ -1,5 +1,6 @@
 ## Reviewer/advisor ([↑](#top))
 
+- Infrastructure as code translation for serverless using AI code assistants ([link](https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/))
 - AWS Serverless MCP Server: AI-powered development for modern applications ([link](https://aws.amazon.com/blogs/compute/introducing-aws-serverless-mcp-server-ai-powered-development-for-modern-applications/))
 - AWS Lambda introduces tiered pricing for Amazon CloudWatch logs and additional logging destinations ([link](https://aws.amazon.com/blogs/compute/aws-lambda-introduces-tiered-pricing-for-amazon-cloudwatch-logs-and-additional-logging-destinations/))
 - Streamlining trace sampling behavior for AWS Lambda functions with AWS X-Ray ([link](https://aws.amazon.com/blogs/compute/streamlining-trace-sampling-behavior-for-aws-lambda-functions-with-aws-x-ray/))
