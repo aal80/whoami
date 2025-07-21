@@ -1,5 +1,6 @@
 ## Reviewer/advisor ([↑](#top))
 
+- Building resilient multi-tenant systems with Amazon SQS fair queues([link](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/))
 - Infrastructure as code translation for serverless using AI code assistants ([link](https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/))
 - AWS Serverless MCP Server: AI-powered development for modern applications ([link](https://aws.amazon.com/blogs/compute/introducing-aws-serverless-mcp-server-ai-powered-development-for-modern-applications/))
 - AWS Lambda introduces tiered pricing for Amazon CloudWatch logs and additional logging destinations ([link](https://aws.amazon.com/blogs/compute/aws-lambda-introduces-tiered-pricing-for-amazon-cloudwatch-logs-and-additional-logging-destinations/))
