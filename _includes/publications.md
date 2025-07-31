@@ -22,7 +22,7 @@
 - Applying Generative AI to CVE remediation – early vulnerability patching in Continuous Integration Pipelines ([link](https://aws.amazon.com/blogs/containers/applying-generative-ai-to-cve-remediation-early-vulnerability-patching-in-continuous-integration-pipelines/))
 - Building Serverless Applications with Terraform Guide ([link](https://serverlessland.com/content/guides/building-serverless-applications-with-terraform/01-introduction))
 - Accelerating polling scale-up for AWS Lambda functions configured with Amazon SQS ([link](https://aws.amazon.com/blogs/compute/introducing-faster-polling-scale-up-for-aws-lambda-functions-configured-with-amazon-sqs/))
-- - Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([link](https://aws.amazon.com/blogs/compute/enhancing-runtime-security-and-governance-with-the-aws-lambda-runtime-api-proxy-extension/))
+- Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([link](https://aws.amazon.com/blogs/compute/enhancing-runtime-security-and-governance-with-the-aws-lambda-runtime-api-proxy-extension/))
 - Integrating the AWS Lambda Telemetry API with Prometheus and OpenSearch ([link](https://aws.amazon.com/blogs/opensource/integrating-the-aws-lambda-telemetry-api-with-prometheus-and-opensearch/))
 - Cost optimization for AWS Lambda Guide ([link](https://serverlessland.com/content/service/lambda/guides/cost-optimization/1-fine-tuning))
 - Implementing long-running TCP Connections within VPC networking ([link](https://aws.amazon.com/blogs/networking-and-content-delivery/implementing-long-running-tcp-connections-within-vpc-networking/))
