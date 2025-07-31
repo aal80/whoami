@@ -1,5 +1,6 @@
 ## Publications ([↑](#top))
 
+- How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale ([link](https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/))
 - Dynamically routing requests with Amazon API Gateway routing rules ([link](https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/))
 - How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda ([link](https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/))
 - Automating AI-assisted container deployments with the Amazon ECS MCP Server ([link](https://aws.amazon.com/blogs/containers/automating-ai-assisted-container-deployments-with-amazon-ecs-mcp-server/))
