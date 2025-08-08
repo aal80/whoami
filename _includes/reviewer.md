@@ -1,5 +1,6 @@
-## Reviewer/advisor ([↑](#top))
+## Advisor / technical authority ([↑](#top))
 
+- Understanding and Remediating Cold Starts: An AWS Lambda Perspective ([link](https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/))
 - Building resilient multi-tenant systems with Amazon SQS fair queues([link](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/))
 - Infrastructure as code translation for serverless using AI code assistants ([link](https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/))
 - AWS Serverless MCP Server: AI-powered development for modern applications ([link](https://aws.amazon.com/blogs/compute/introducing-aws-serverless-mcp-server-ai-powered-development-for-modern-applications/))
