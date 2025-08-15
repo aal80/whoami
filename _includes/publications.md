@@ -6,7 +6,7 @@
 - How Smartsheet reduced latency and optimized costs in their serverless architecture ([link](https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/))
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([link](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
 - How CyberArk is streamlining serverless governance by codifying architectural blueprints ([link](https://aws.amazon.com/blogs/architecture/how-cyberark-is-streamlining-serverless-governance-by-codifying-architectural-blueprints/))
-- How SeatGeek uses Serverless to control authorization, authentication, and rate-limiting in a multi-tenant SaaS application ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
+- How SeatGeek uses AWS Serverless for authorization, authentication, and rate-limiting in a multi-tenant SaaS application ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
 
 ## Technical publications ([↑](#top))
 
