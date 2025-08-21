@@ -42,16 +42,16 @@
         </div>
         <div class="row">
             <div class="col-12 col-lg-6">
-{% capture talks %}
-{% include talks.md %}
-{% endcapture %}
-{{ talks | markdownify }}
-            </div>
-            <div class="col-12 col-lg-6">
 {% capture publications %}
 {% include publications.md %}
 {% endcapture %}
 {{ publications | markdownify }}
+            </div>
+            <div class="col-12 col-lg-6">
+{% capture talks %}
+{% include talks.md %}
+{% endcapture %}
+{{ talks | markdownify }}
             </div>
         </div>
 
