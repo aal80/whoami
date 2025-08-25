@@ -2,6 +2,7 @@
 
 - How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale ([link](https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/))
 - How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda ([link](https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/))
+- How Smartsheet optimized their Serverless Architecture Using Lambda Provisioned Concurrency ([link](https://aws.amazon.com/solutions/case-studies/smartsheet-lambda-case-study/))
 - Automate Early Security Patching in CI Pipelines on AWS Using NVIDIA AI Blueprints ([link](https://developer.nvidia.com/blog/automate-early-security-patching-in-ci-pipelines-on-aws-using-nvidia-ai-blueprints/))
 - How Smartsheet reduced latency and optimized costs in their serverless architecture ([link](https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/))
 - From 18 Weeks to 3 Hours: How CyberArk Delivers Business Value Faster Using Serverless Technology on AWS ([link](https://aws.amazon.com/solutions/case-studies/cyberark-serverless-case-study/))
