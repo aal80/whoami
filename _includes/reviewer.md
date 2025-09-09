@@ -1,5 +1,6 @@
-## Advisor / technical authority ([↑](#top))
+## Advisor / technical authority / reviewer ([↑](#top))
 
+- Accessing private Amazon API Gateway endpoints through custom Amazon CloudFront distribution using VPC Origins ([link](https://aws.amazon.com/blogs/compute/accessing-private-amazon-api-gateway-endpoints-through-custom-amazon-cloudfront-distribution-using-vpc-origins/))
 - Understanding and Remediating Cold Starts: An AWS Lambda Perspective ([link](https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/))
 - Building resilient multi-tenant systems with Amazon SQS fair queues([link](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/))
 - Infrastructure as code translation for serverless using AI code assistants ([link](https://aws.amazon.com/blogs/compute/infrastructure-as-code-translation-for-serverless-using-ai-code-assistants/))
