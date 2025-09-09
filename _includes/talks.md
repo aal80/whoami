@@ -1,5 +1,6 @@
 ## Public speaking ([↑](#top))
 
+- AWS Summits 2025 - Toronto, Los Angeles, Heroes Summit ([resources](https://aal80.github.io/aws-summits-reinvent-2025-serverless-agents-chalktalk/))
 - Building AI Agents on AWS with Strands Agents SDK ([video](https://youtu.be/OuiUEPO7PB8?si=YSvJLK_iCvWm6XJZ), [slides](https://www.dropbox.com/scl/fi/xzs51iplz8vpn5o0s4whq/2025-building-ai-agents-on-aws.pdf?rlkey=m4iw9dvexfyh9yuq1s1be3eef&st=8fpmcgbf&dl=0))
 - Building MCP Servers on AWS ([video](https://youtu.be/q3JgDJPeXJY), [slides](https://www.dropbox.com/scl/fi/pley3lqj96t8a5f212coe/2025-building-mcp-servers-on-aws.pdf?rlkey=5ip3rqn8iwjhody664t9ihzbm&st=sqt4dno2&dl=0))
 - Serverless Office Hours - Building Serverless AI agents ([video](https://www.youtube.com/live/HLy81MDTLro?si=46W0g_XnSNkP8X_2))
