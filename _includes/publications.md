@@ -14,7 +14,7 @@
 
 - Effectively building AI agents on AWS Serverless ([link](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 - Dynamically routing requests with Amazon API Gateway routing rules ([link](https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/))
-- Enhancing multi-account activity monitoring with event-driven architectures ([link](https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/))
+- Enhancing multi-account activity monitoring and threat detection with event-driven architectures ([link](https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/))
 - Automating AI-assisted container deployments with the Amazon ECS MCP Server ([link](https://aws.amazon.com/blogs/containers/automating-ai-assisted-container-deployments-with-amazon-ecs-mcp-server/))
 - Monitoring network traffic in AWS Lambda functions ([link](https://aws.amazon.com/blogs/compute/monitoring-network-traffic-in-aws-lambda-functions/))
 - Building Serverless MCP Servers and What Does Peppa Pig Have To Do With It ([link](https://www.ranthebuilder.cloud/post/building-serverless-mcp-server))
