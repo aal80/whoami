@@ -3,6 +3,7 @@
 - Deploying serverless AI agents on AWS with Terraform and securing them with HCP Vault ([link](https://www.hashicorp.com/en/resources/deploying-serverless-ai-agents-on-aws-with-terraform-and-securing-them-with-hcp-v))
 - How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale ([link](https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/))
 - How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda ([link](https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/))
+- From authentication to identity propagation: Securing serverless AI agents and MCP servers on AWS with Okta ([blog](https://www.okta.com/blog/ai/securing-serverless-ai-agents-and-mcp-servers-on-aws-with-okta/))
 - Automate Early Security Patching in CI Pipelines on AWS Using NVIDIA AI Blueprints ([link](https://developer.nvidia.com/blog/automate-early-security-patching-in-ci-pipelines-on-aws-using-nvidia-ai-blueprints/))
 - How Smartsheet optimized their Serverless Architecture Using Lambda Provisioned Concurrency ([link](https://aws.amazon.com/solutions/case-studies/smartsheet-lambda-case-study/))
 - How Smartsheet reduced latency and optimized costs in their serverless architecture ([link](https://aws.amazon.com/blogs/architecture/how-smartsheet-reduced-latency-and-optimized-costs-in-their-serverless-architecture/))
