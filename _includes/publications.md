@@ -1,6 +1,6 @@
 ## Customer/partner stories ([↑](#top))
 
-![](./new.png)
+![](./new1.png)
 
 - Deploying serverless AI agents on AWS with Terraform and securing them with HCP Vault ([link](https://www.hashicorp.com/en/resources/deploying-serverless-ai-agents-on-aws-with-terraform-and-securing-them-with-hcp-v))
 - How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale ([link](https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/))
