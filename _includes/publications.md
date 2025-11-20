@@ -1,5 +1,7 @@
 ## Customer/partner stories ([↑](#top))
 
+![](./new.png)
+
 - Deploying serverless AI agents on AWS with Terraform and securing them with HCP Vault ([link](https://www.hashicorp.com/en/resources/deploying-serverless-ai-agents-on-aws-with-terraform-and-securing-them-with-hcp-v))
 - How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale ([link](https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/))
 - How Launchpad from Pega enables secure SaaS extensibility with AWS Lambda ([link](https://aws.amazon.com/blogs/architecture/how-launchpad-from-pega-enables-secure-saas-extensibility-with-aws-lambda/))
@@ -40,3 +42,4 @@
 - Reusing Existing Red Hat SSO and Keycloak for Applications That Run on IBM Cloud with App ID ([link](https://www.dropbox.com/scl/fi/x5brt4vjbtm4cn6wsm8dm/Reusing-Existing-Red-Hat-SSO-and-Keycloak-for-Applications-That-Run-on-IBM-Cloud-with-App-ID.pdf?rlkey=rneryq5hnrjajxtcvenpr6sin&st=bvdhfjf5&dl=0))
 - Protecting Your Cloud Applications with App ID and Existing IBM Cloud Identity User Repository ([link](https://www.dropbox.com/scl/fi/c2mtmo1nprfj02vughlt4/Protecting-Your-Cloud-Applications-with-App-ID-and-Existing-IBM-Cloud-Identity-User-Repository.pdf?rlkey=g3wt1rn51h08m0e7owuq35xaj&st=46ezwc2u&dl=0))
 - Serving Cached Content Using Cloud Internet Services, Cloud Object Storage and Certificate Manager ([link](https://www.dropbox.com/scl/fi/vgbkqs1m3cdc1uws241gj/Serving-Cached-Content-Using-Cloud-Internet-Services-Cloud-Object-Storage-and-Certificate-Manager.pdf?rlkey=dl15dsbks7794vbsxm237xegp&st=zv82h4cj&dl=0))
+- 
