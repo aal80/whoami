@@ -13,8 +13,8 @@
 - How SeatGeek uses AWS to control authorization, authentication, and rate-limiting in a multi-tenant SaaS app ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
 
 ## Technical publications ([↑](#top))
-- ![](./new2.png) Building multi-tenant SaaS applications with AWS Lambda’s new tenant isolation mode ([link](https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/))
-- ![](./new2.png) Building responsive APIs with Amazon API Gateway response streaming ([link](https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/))
+- Building multi-tenant SaaS applications with AWS Lambda’s new tenant isolation mode ([link](https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/))
+- Building responsive APIs with Amazon API Gateway response streaming ([link](https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/))
 - Effectively building AI agents on AWS Serverless ([link](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 - Dynamically routing requests with Amazon API Gateway routing rules ([link](https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/))
 - Enhancing multi-account activity monitoring and threat detection with event-driven architectures ([link](https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/))
@@ -41,4 +41,3 @@
 - Reusing Existing Red Hat SSO and Keycloak for Applications That Run on IBM Cloud with App ID ([link](https://www.dropbox.com/scl/fi/x5brt4vjbtm4cn6wsm8dm/Reusing-Existing-Red-Hat-SSO-and-Keycloak-for-Applications-That-Run-on-IBM-Cloud-with-App-ID.pdf?rlkey=rneryq5hnrjajxtcvenpr6sin&st=bvdhfjf5&dl=0))
 - Protecting Your Cloud Applications with App ID and Existing IBM Cloud Identity User Repository ([link](https://www.dropbox.com/scl/fi/c2mtmo1nprfj02vughlt4/Protecting-Your-Cloud-Applications-with-App-ID-and-Existing-IBM-Cloud-Identity-User-Repository.pdf?rlkey=g3wt1rn51h08m0e7owuq35xaj&st=46ezwc2u&dl=0))
 - Serving Cached Content Using Cloud Internet Services, Cloud Object Storage and Certificate Manager ([link](https://www.dropbox.com/scl/fi/vgbkqs1m3cdc1uws241gj/Serving-Cached-Content-Using-Cloud-Internet-Services-Cloud-Object-Storage-and-Certificate-Manager.pdf?rlkey=dl15dsbks7794vbsxm237xegp&st=zv82h4cj&dl=0))
-- 
