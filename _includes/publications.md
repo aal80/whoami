@@ -12,7 +12,7 @@
 - How SeatGeek uses AWS to control authorization, authentication, and rate-limiting in a multi-tenant SaaS app ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
 
 ## Technical publications ([↑](#top))
-
+- Building responsive APIs with Amazon API Gateway response streaming ([link](https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/))
 - Effectively building AI agents on AWS Serverless ([link](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 - Dynamically routing requests with Amazon API Gateway routing rules ([link](https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/))
 - Enhancing multi-account activity monitoring and threat detection with event-driven architectures ([link](https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/))
