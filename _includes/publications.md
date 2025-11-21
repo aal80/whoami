@@ -16,6 +16,7 @@
 - Building responsive APIs with Amazon API Gateway response streaming ([link](https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/))
 - Effectively building AI agents on AWS Serverless ([link](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 - Improving throughput of serverless streaming workloads for Kafka ([link](https://aws.amazon.com/blogs/compute/improving-throughput-of-serverless-streaming-workloads-for-kafka/))
+- Enhancing API security with Amazon API Gateway TLS security policies ([link](https://aws.amazon.com/blogs/compute/enhancing-api-security-with-amazon-api-gateway-tls-security-policies/))
 - Dynamically routing requests with Amazon API Gateway routing rules ([link](https://aws.amazon.com/blogs/compute/dynamically-routing-requests-with-amazon-api-gateway-routing-rules/))
 - Enhancing multi-account activity monitoring and threat detection with event-driven architectures ([link](https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/))
 - Automating AI-assisted container deployments with the Amazon ECS MCP Server ([link](https://aws.amazon.com/blogs/containers/automating-ai-assisted-container-deployments-with-amazon-ecs-mcp-server/))
