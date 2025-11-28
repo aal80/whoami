@@ -1,6 +1,9 @@
 ## Public speaking ([↑](#top))
 
-- AWS Summits/re:Invent 2025 - Building Production-Ready Agentic AI architectures ([resources](https://aal80.github.io/aws-summits-reinvent-2025-serverless-agents-chalktalk/))
+- AWS re:Invent 2025 - Building production-ready Agentic AI architectures ([resources](https://aal80.github.io/aws-summits-reinvent-2025-serverless-agents-chalktalk/))
+- AWS re:Invent 2025 - Secure Multi-tenant SaaS with AWS Lambda: A Tenant Isolation Deep Dive ([resources](https://aal80.github.io/reinvent2025-cns381/))
+- AWS re:Invent 2025 - Optimizing Kafka workloads with AWS Lambda ([resources](https://aal80.github.io/reinvent2025-cns411/))
+- AWS re:Invent 2025 - Scaling Serverless with platform engineering: A blueprint for success ([resources](https://aal80.github.io/reinvent2025-cns361/))
 - Enhancing multi-account activity monitoring and threat detection with event-driven architectures ([video](https://youtu.be/KlM2M_u0v14?si=Cdb29j2ldcb0UUCh), [slides](https://www.dropbox.com/scl/fi/bpxicxheemub6k6csejlp/2025-enhancing-multi-account-activity-monitoring-with-event-driven-architectures.pdf?rlkey=476fihbcaltwb0dgcmbo91g2v&st=zvmunpc4&dl=0), [resources](https://aal80.github.io/webinar-building-event-driven-multi-account-activity-monitoring-solutions/))
 - Building serverless AI Agents on AWS with Strands Agents SDK ([video](https://youtu.be/OuiUEPO7PB8?si=YSvJLK_iCvWm6XJZ), [slides](https://www.dropbox.com/scl/fi/xzs51iplz8vpn5o0s4whq/2025-building-ai-agents-on-aws.pdf?rlkey=m4iw9dvexfyh9yuq1s1be3eef&st=8fpmcgbf&dl=0))
 - Building serverless MCP Servers on AWS ([video](https://youtu.be/q3JgDJPeXJY), [slides](https://www.dropbox.com/scl/fi/pley3lqj96t8a5f212coe/2025-building-mcp-servers-on-aws.pdf?rlkey=5ip3rqn8iwjhody664t9ihzbm&st=sqt4dno2&dl=0))
