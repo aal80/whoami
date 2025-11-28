@@ -1,5 +1,6 @@
 ## Advisor / technical authority / reviewer ([↑](#top))
 
+- Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference ([link](https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/))
 - Accessing private Amazon API Gateway endpoints through custom Amazon CloudFront distribution using VPC Origins ([link](https://aws.amazon.com/blogs/compute/accessing-private-amazon-api-gateway-endpoints-through-custom-amazon-cloudfront-distribution-using-vpc-origins/))
 - Understanding and Remediating Cold Starts: An AWS Lambda Perspective ([link](https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/))
 - Building resilient multi-tenant systems with Amazon SQS fair queues([link](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/))
