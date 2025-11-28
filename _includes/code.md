@@ -1,9 +1,11 @@
 ## Code ([↑](#top))
 
 - Serverless AI Agent (Strands Agents SDK) and MCP Server, with E2E user authorization ([link](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main/strands-agent-on-lambda))
+- Lambda Tenant Isolation mode ([link](https://github.com/aws-samples/sample-lambda-tenant-isolation))
 - Serverless MCP Servers ([link](https://github.com/aws-samples/sample-serverless-mcp-servers))
 - Lambda Network Monitoring ([link](https://github.com/aws-samples/sample-lambda-network-monitor))
 - Efficiently processing batched data using parallelization in AWS Lambda ([link](https://github.com/aws-samples/lambda-with-multithreading))
+- API Gateway response streaming ([link](https://github.com/aws-samples/serverless-samples/tree/main/apigw-response-streaming))
 - Introducing faster polling scale-up for AWS Lambda functions configured with Amazon SQS ([link](https://github.com/aws-samples/lambda-sqs-event-source-mapping-scaling-improvements))
 - Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension ([link](https://github.com/aws-samples/aws-lambda-extensions/tree/main/nodejs-example-lambda-runtime-api-proxy-extension))
 - AWS Lambda Telemetry API extension, Golang ([link](https://github.com/aws-samples/aws-lambda-extensions/tree/main/go-example-telemetry-api-extension))
