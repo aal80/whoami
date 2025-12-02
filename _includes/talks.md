@@ -1,8 +1,8 @@
 ## Public speaking ([↑](#top))
 
-- AWS re:Invent 2025 - Building production-ready Agentic AI architectures ([resources](https://aal80.github.io/aws-summits-reinvent-2025-serverless-agents-chalktalk/))
+- AWS re:Invent 2025 - Building production-ready Agentic AI architectures ([slides](https://www.dropbox.com/scl/fi/wxyvqh99a7938sd3jy9ag/reinvent2025-cns425-agents.pdf?rlkey=4ijwvnb8x5xik3liqmryzv592&st=cndbnpg0&dl=0), [resources](https://aal80.github.io/aws-summits-reinvent-2025-serverless-agents-chalktalk/))
 - AWS re:Invent 2025 - Secure Multi-tenant SaaS with AWS Lambda: A Tenant Isolation Deep Dive ([resources](https://aal80.github.io/reinvent2025-cns381/))
-- AWS re:Invent 2025 - Optimizing Kafka workloads with AWS Lambda ([resources](https://aal80.github.io/reinvent2025-cns411/))
+- AWS re:Invent 2025 - Optimizing Kafka workloads with AWS Lambda ([slides](https://www.dropbox.com/scl/fi/zoosur28fmos4z9kihzi7/reinvent2025-cns411-kafka.pdf?rlkey=b081gowestbgact4qflm4k1gv&st=mz3hj1y3&dl=0), [resources](https://aal80.github.io/reinvent2025-cns411/))
 - AWS re:Invent 2025 - Scaling Serverless with platform engineering: A blueprint for success ([resources](https://aal80.github.io/reinvent2025-cns361/))
 - Building serverless AI Agents on AWS with Strands Agents SDK ([video](https://youtu.be/OuiUEPO7PB8?si=YSvJLK_iCvWm6XJZ), [slides](https://www.dropbox.com/scl/fi/xzs51iplz8vpn5o0s4whq/2025-building-ai-agents-on-aws.pdf?rlkey=m4iw9dvexfyh9yuq1s1be3eef&st=8fpmcgbf&dl=0))
 - Building serverless MCP Servers on AWS ([video](https://youtu.be/q3JgDJPeXJY), [slides](https://www.dropbox.com/scl/fi/pley3lqj96t8a5f212coe/2025-building-mcp-servers-on-aws.pdf?rlkey=5ip3rqn8iwjhody664t9ihzbm&st=sqt4dno2&dl=0))
