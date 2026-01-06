@@ -1,5 +1,7 @@
 ## Public speaking ([↑](#top))
 
+
+- ![](./images/new2.png) Serverlss Office Hours - API Gateway Response Streaming for AI applications ([video](https://www.youtube.com/watch?v=OOyPRuIuA5w))
 - ![](./images/new2.png) What's new in Serverless and Containers - re:Invent 2025 recap ([slides](https://www.dropbox.com/scl/fi/1xe6l5ek2nqhlq7ve88m5/2026-whats-new-in-serverless-and-containers.pdf?rlkey=8wxudph14xwnoh5i91ph85vyp&st=txxw07gc&dl=0))
 - ![](./images/new2.png) AWS re:Invent 2025 - Secure Multi-tenant SaaS with AWS Lambda: A Tenant Isolation Deep Dive ([video](https://youtu.be/FWxwfcI7FTA), [slides](https://www.dropbox.com/scl/fi/sqn7snim1x73m4uml44h9/reinvent2025-cns381-tenant.pdf?rlkey=goxl31oiky1lxgx7xb6d0g1yd&st=otucxlcl&dl=0), [resources](https://aal80.github.io/reinvent2025-cns381/))
 - ![](./images/new2.png) AWS re:Invent 2025 - Scaling Serverless with platform engineering: A blueprint for success ([video](https://youtu.be/GjWaLj4Y86U), [slides](https://www.dropbox.com/scl/fi/tzcsgwta7gi18wqrgwt2l/reinvent2025-cns361-platform.pdf?rlkey=zbarjfjghuj1iz6kl3kbi67mr&st=ot2bqtai&dl=0), [resources](https://aal80.github.io/reinvent2025-cns361/))
