@@ -22,6 +22,7 @@
 - Enhancing multi-account activity monitoring and threat detection with event-driven architectures ([link](https://aws.amazon.com/blogs/compute/enhancing-multi-account-activity-monitoring-with-event-driven-architectures/))
 - Automating AI-assisted container deployments with the Amazon ECS MCP Server ([link](https://aws.amazon.com/blogs/containers/automating-ai-assisted-container-deployments-with-amazon-ecs-mcp-server/))
 - Monitoring network traffic in AWS Lambda functions ([link](https://aws.amazon.com/blogs/compute/monitoring-network-traffic-in-aws-lambda-functions/))
+- More room to build: serverless services now support payloads up to 1 MB ([link](https://aws.amazon.com/blogs/compute/more-room-to-build-serverless-services-now-support-payloads-up-to-1-mb/))
 - Building Serverless MCP Servers and What Does Peppa Pig Have To Do With It ([link](https://www.ranthebuilder.cloud/post/building-serverless-mcp-server))
 - Optimizing network footprint in serverless applications ([link](https://aws.amazon.com/blogs/compute/optimizing-network-footprint-in-serverless-applications/))
 - Handling billions of invocations – best practices from AWS Lambda ([link](https://aws.amazon.com/blogs/compute/handling-billions-of-invocations-best-practices-from-aws-lambda/))
