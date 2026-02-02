@@ -12,7 +12,7 @@
 - How SeatGeek uses AWS to control authorization, authentication, and rate-limiting in a multi-tenant SaaS app ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
 
 ## Technical publications ([↑](#top))
-- ![](./images/new2.png) Effectively building AI agents on AWS Serverless ([link](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
+- ![](./images/new2.png) Effectively building AI agents with AWS Serverless ([link](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 - ![](./images/new2.png) Architecting conversational observability for cloud applications ([link](https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/))
 - ![](./images/new2.png) Building multi-tenant SaaS applications with AWS Lambda’s new tenant isolation mode ([link](https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/))
 - ![](./images/new2.png) Building responsive APIs with Amazon API Gateway response streaming ([link](https://aws.amazon.com/blogs/compute/building-responsive-apis-with-amazon-api-gateway-response-streaming/))
