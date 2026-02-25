@@ -1,5 +1,5 @@
 ## Advisor / technical authority / reviewer ([↑](#top))
-
+- Optimizing Compute-Intensive Serverless Workloads with Multi-threaded Rust on AWS Lambda ([link](https://aws.amazon.com/blogs/compute/optimizing-compute-intensive-serverless-workloads-with-multi-threaded-rust-on-aws-lambda/))
 - Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference ([link](https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/))
 - Accessing private Amazon API Gateway endpoints through custom Amazon CloudFront distribution using VPC Origins ([link](https://aws.amazon.com/blogs/compute/accessing-private-amazon-api-gateway-endpoints-through-custom-amazon-cloudfront-distribution-using-vpc-origins/))
 - Understanding and Remediating Cold Starts: An AWS Lambda Perspective ([link](https://aws.amazon.com/blogs/compute/understanding-and-remediating-cold-starts-an-aws-lambda-perspective/))
