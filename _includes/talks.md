@@ -41,6 +41,6 @@
 - Serverless Office Hours - Multi-tenant serverless SaaS applications with AWS Serverless ([video](https://www.youtube.com/live/mOe-yIUCxbE?si=DEwKl4HowLeVKrMg))
 - LASCON 2022 - A visual journey to demystifying OAuth2 and OIDC ([video](https://youtu.be/bhvJ1z-ye6E?si=HQ5CLYKscZ3UJ9f6), [slides](https://www.dropbox.com/scl/fi/af0veyc6wxf3y2ofazosw/lascon-2022-demystifying-o-uth2-and-oidc-visual-journey.pdf?rlkey=88s7zi45mqa5qqec2t4vwi3gq&st=zsupoqeh&dl=0))
 - KubeCon 2019 - Declaratively Securing Kubernetes Applications with Zero Code Updates ([slides](https://www.dropbox.com/scl/fi/5w7p5ogzbpxi0joyrsed6/kubecon-2019-multicloud-identity-and-access-management.pdf?rlkey=xxmzbkw59o5cc9qk3l545ou00&st=cmth26fm&dl=0))
-- LASCON 2019 - Building secure cloud apps (and sleeping well at night) ([slides](https://www.dropbox.com/scl/fi/59uviu8ethnqvw3nnfljg/lascon-2019-buildin-secure-cloud-apps.pdf?rlkey=y6oufifio81klgqmpfwj7g6yc&st=t1l1v4oo&dl=0))
-- LASCON 2018 - GDPR for Cloud Applications ([slides](https://www.dropbox.com/scl/fi/cekebg233b5qaeesx3s12/lascon-2018-gdpr-for-cloud-apps.pdf?rlkey=o2xm75ysi3iawwlcv88wv4de7&st=lroh4x71&dl=0))
+- LASCON 2019 - Building secure cloud apps (and sleeping well at night) ([video](https://www.youtube.com/watch?v=gD53iRk17rM), [slides](https://www.dropbox.com/scl/fi/59uviu8ethnqvw3nnfljg/lascon-2019-buildin-secure-cloud-apps.pdf?rlkey=y6oufifio81klgqmpfwj7g6yc&st=t1l1v4oo&dl=0))
+- LASCON 2018 - GDPR for Cloud Applications ([video](https://www.youtube.com/watch?v=CENXR6-7e8Q), [slides](https://www.dropbox.com/scl/fi/cekebg233b5qaeesx3s12/lascon-2018-gdpr-for-cloud-apps.pdf?rlkey=o2xm75ysi3iawwlcv88wv4de7&st=lroh4x71&dl=0))
 - (And quite a few more in the last ~15 years...)
