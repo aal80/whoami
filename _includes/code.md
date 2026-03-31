@@ -1,5 +1,6 @@
 ## Code ([↑](#top))
 
+- Building AI workloads on AWS with AgentCore and Terraform ([link](https://github.com/aal80/agentcore-samples))
 - Serverless AI Agent (Strands Agents SDK) and MCP Server, with E2E user authorization ([link](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main/strands-agent-on-lambda))
 - Lambda Tenant Isolation mode ([link](https://github.com/aws-samples/sample-lambda-tenant-isolation))
 - Serverless MCP Servers ([link](https://github.com/aws-samples/sample-serverless-mcp-servers))
