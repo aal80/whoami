@@ -12,6 +12,7 @@
 - How SeatGeek uses AWS to control authorization, authentication, and rate-limiting in a multi-tenant SaaS app ([link](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
 
 ## Technical publications ([↑](#top))
+- ![](./images/new2.png) Integrating Amazon Bedrock AgentCore Identity with Non-Standard OAuth2 Providers ([link](https://medium.com/@anton.al80/integrating-amazon-bedrock-agentcore-identity-with-non-standard-oauth2-providers-b2cf94cadd3f)]
 - ![](./images/new2.png) Building Multi-Agent AI Systems on AWS with A2A and AgentCore ([link](https://medium.com/@anton.al80/building-multi-agent-ai-systems-on-aws-with-a2a-and-agentcore-a-practical-guide-and-hands-on-58235d57c4b2))
 - ![](./images/new2.png) Effectively building AI agents with AWS Serverless ([link](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 - ![](./images/new2.png) Architecting conversational observability for cloud applications ([link](https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/))
