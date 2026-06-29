@@ -4,7 +4,6 @@
 - Building AI Agents with Amazon Bedrock AgentCore ([link](https://github.com/aws-samples/sample-genai-strats/tree/main/workshops/agentcore-building-ai-agents))
 - Integrating Amazon Bedrock AgentCore Agents with Workday via MCP and A2A [[link](https://github.com/aws-samples/sample-genai-strats/tree/main/workshops/agentcore-workday-integration))
 - Bedrock Models Benchmarker ([link](https://github.com/aal80/bedrock-model-benchmarker))
-- Bedrock Models Benchmarker ([link](https://github.com/aal80/bedrock-model-benchmarker))
 - Serverless AI Agent (Strands Agents SDK) and MCP Server, with E2E user authorization ([link](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main/strands-agent-on-lambda))
 - Lambda Tenant Isolation mode ([link](https://github.com/aws-samples/sample-lambda-tenant-isolation))
 - Serverless MCP Servers ([link](https://github.com/aws-samples/sample-serverless-mcp-servers))
