@@ -12,13 +12,14 @@
 - How SeatGeek uses AWS to control authorization, authentication, and rate-limiting in a multi-tenant SaaS app ([article](https://aws.amazon.com/blogs/architecture/how-seatgeek-uses-aws-to-control-authorization-authentication-and-rate-limiting-in-a-multi-tenant-saas-application/))
 
 ## Technical publications ([↑](#top))
+- ![](./images/new2.png) Building an Auth Layer for Chaos Monkeys (a.k.a. AI Agents) ([article](https://medium.com/@anton.al80/building-an-auth-layer-for-chaos-monkeys-a-k-a-ai-agents-1751fd36d950))
 - ![](./images/new2.png) Building AI Agents with Amazon Bedrock AgentCore and Terraform - From Prototype to Production ([workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/05695036-0049-4114-a660-f15071df92dc/en-US))
 - ![](./images/new2.png) Integrating Amazon Bedrock AgentCore with Workday Agents ([workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/0c20d432-ef19-4874-a1d1-b46e528c9d7e/en-US))
 - ![](./images/new2.png) Your Teams Are Sharing an AI Bill — Here’s How to Know Who Consumes What ([article](https://medium.com/@anton.al80/your-teams-are-sharing-an-ai-bill-heres-how-to-know-who-consumes-what-a9747b79fe23))
 - ![](./images/new2.png) Integrating Event Source Mappings with AWS Lambda tenant isolation mode ([article](https://aws.amazon.com/blogs/compute/integrating-event-source-mappings-with-aws-lambda-tenant-isolation-mode/))
 - ![](./images/new2.png) Stop Coding Your Agents: The Case for Declarative AI ([article](https://medium.com/@anton.al80/stop-coding-your-agents-the-case-for-declarative-ai-e9a334ec8d89))
 - ![](./images/new2.png) Integrating Amazon Bedrock AgentCore Identity with Non-Standard OAuth2 Providers ([article](https://medium.com/@anton.al80/integrating-amazon-bedrock-agentcore-identity-with-non-standard-oauth2-providers-b2cf94cadd3f)]
-- ![](./images/new2.png) Building Multi-Agent AI Systems on AWS with A2A and AgentCore ([article](https://medium.com/@anton.al80/building-multi-agent-ai-systems-on-aws-with-a2a-and-agentcore-a-practical-guide-and-hands-on-58235d57c4b2))
+-  Building Multi-Agent AI Systems on AWS with A2A and AgentCore ([article](https://medium.com/@anton.al80/building-multi-agent-ai-systems-on-aws-with-a2a-and-agentcore-a-practical-guide-and-hands-on-58235d57c4b2))
 - Effectively building AI agents with AWS Serverless ([article](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 - Architecting conversational observability for cloud applications ([article](https://aws.amazon.com/blogs/architecture/architecting-conversational-observability-for-cloud-applications/))
 - Building multi-tenant SaaS applications with AWS Lambda’s new tenant isolation mode ([article](https://aws.amazon.com/blogs/compute/building-multi-tenant-saas-applications-with-aws-lambdas-new-tenant-isolation-mode/))
