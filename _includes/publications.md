@@ -1,5 +1,6 @@
 ## Customer/partner stories ([↑](#top))
 
+- ![](./images/new2.png) Building a serverless AI assistant at Pelago: concept to care in two weeks ([article](https://aws.amazon.com/blogs/architecture/building-a-serverless-ai-assistant-at-pelago-concept-to-care-in-two-weeks/))
 - Deploying serverless AI agents on AWS with Terraform and securing them with HCP Vault ([article](https://www.hashicorp.com/en/resources/deploying-serverless-ai-agents-on-aws-with-terraform-and-securing-them-with-hcp-v))
 - From authentication to identity propagation: Securing serverless AI agents and MCP servers on AWS with Okta ([article](https://www.okta.com/blog/ai/securing-serverless-ai-agents-and-mcp-servers-on-aws-with-okta/))
 - How Zapier runs isolated tasks on AWS Lambda and upgrades functions at scale ([article](https://aws.amazon.com/blogs/architecture/how-zapier-runs-isolated-tasks-on-aws-lambda-and-upgrades-functions-at-scale/))
