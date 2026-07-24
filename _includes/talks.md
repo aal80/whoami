@@ -1,6 +1,6 @@
 ## Public speaking ([↑](#top))
 
-- ![](./images/new2.png) Deploying secure production-ready agents with Claude Managed Agents on AWS ([slides](https://www.dropbox.com/scl/fi/d8049ww6jvj9l61fp3045/2026-webinar-aws-anthropic-claude-managed-agents-with-lambda-microvms.pdf?rlkey=prvqoyps7rzrwo5hsnwegkni1&st=7d62wp0k&dl=0))
+- ![](./images/new2.png) Deploying secure production-ready agents with Claude Managed Agents on AWS ([video](https://youtu.be/BKyO7nLiB6A), [slides](https://www.dropbox.com/scl/fi/d8049ww6jvj9l61fp3045/2026-webinar-aws-anthropic-claude-managed-agents-with-lambda-microvms.pdf?rlkey=prvqoyps7rzrwo5hsnwegkni1&st=7d62wp0k&dl=0), [resources](https://aal80.github.io/2026-webinar-aws-anthropic-claude-managed-agents-with-lambda-microvms/))
 - ![](./images/new2.png) Stop coding your agents: The case for declarative AI with AgentCore Harness ([slides](https://www.dropbox.com/scl/fi/0txwca9t89nfjzb7pmbi1/2026-stop-coding-your-agents.pdf?rlkey=j3tzq4opp2ii01h80e1vi8g6s&st=mfibneco&dl=0))
 - ![](./images/new2.png) AWS Lambda MicroVMs - Serverless compute for secure code execution ([slides](https://www.dropbox.com/scl/fi/6xumev0i2ck42w3r28e0t/2026-lambda-microvms.pdf?rlkey=50bwk4ly93przgpvrjpisj9wg&st=dm8nbyde&dl=0))
 - AWS re:Invent 2025 - Secure Multi-tenant SaaS with AWS Lambda: A Tenant Isolation Deep Dive ([video](https://youtu.be/FWxwfcI7FTA), [slides](https://www.dropbox.com/scl/fi/sqn7snim1x73m4uml44h9/reinvent2025-cns381-tenant.pdf?rlkey=goxl31oiky1lxgx7xb6d0g1yd&st=otucxlcl&dl=0), [resources](https://aal80.github.io/reinvent2025-cns381/))
