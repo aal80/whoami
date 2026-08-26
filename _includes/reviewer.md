@@ -1,4 +1,5 @@
 ## Advisor / technical authority / reviewer ([↑](#top))
+- Connect Amazon Bedrock AgentCore to cross-account knowledge bases ([link](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/))
 - Building Memory-Intensive Apps with AWS Lambda Managed Instances ([link](https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/))
 - Optimizing Compute-Intensive Serverless Workloads with Multi-threaded Rust on AWS Lambda ([link](https://aws.amazon.com/blogs/compute/optimizing-compute-intensive-serverless-workloads-with-multi-threaded-rust-on-aws-lambda/))
 - Orchestrating large-scale document processing with AWS Step Functions and Amazon Bedrock batch inference ([link](https://aws.amazon.com/blogs/compute/orchestrating-large-scale-document-processing-with-aws-step-functions-and-amazon-bedrock-batch-inference/))
