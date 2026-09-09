@@ -1,4 +1,5 @@
 ## Advisor / technical authority / reviewer ([↑](#top))
+- One Architecture, Any AI Coding Tool: Eliminating the Quality Lottery ([link](https://builder.aws.com/content/3IYNto1I7ZyuX6fzK68cxuErblj/one-architecture-any-ai-coding-tool-eliminating-the-quality-lottery))
 - Connect Amazon Bedrock AgentCore to cross-account knowledge bases ([link](https://aws.amazon.com/blogs/machine-learning/connect-amazon-bedrock-agentcore-to-cross-account-knowledge-bases/))
 - Building Memory-Intensive Apps with AWS Lambda Managed Instances ([link](https://aws.amazon.com/blogs/compute/building-memory-intensive-apps-with-aws-lambda-managed-instances/))
 - Optimizing Compute-Intensive Serverless Workloads with Multi-threaded Rust on AWS Lambda ([link](https://aws.amazon.com/blogs/compute/optimizing-compute-intensive-serverless-workloads-with-multi-threaded-rust-on-aws-lambda/))
